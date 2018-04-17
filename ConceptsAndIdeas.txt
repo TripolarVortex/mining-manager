@@ -1,0 +1,20 @@
+-worker stats
+--current hashrate, 24hr avg hashrate
+--top 6 results(in last x days, and ever)
+--input watts per crypto
+---have it display h/s/w 24hr avg
+---also show $/day gross and net profit
+-algo profitability display
+--something like the existing graph page, maybe show more personalized estimates (or last24hr "coulda been" numbers for your rig(s))
+--also maybe switching, but I don't think I'm too interested in that)
+---some way to have it have checkboxes or something for desired algorithms, and flip like nicehash, haha
+---have the stats display "time mining on this alg"
+-pool stats
+--if we have more than one, might be neat to aggregate the stats/performance of each, to easily compare in a dashboardy type way
+---avg days per block, payout per block, avg time that it's recommended to mine (if the profitability calc is autoflipping us
+
+crypto monitor
+-import/store in db: coin values (per btc and usd), volume, difficulty
+-every 5 min?
+-btc,xmr,eth,sumo,zec,vtc,etn
+-maybe pull from cryptopia/xmr.to also
